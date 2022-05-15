@@ -5,11 +5,6 @@ Centralized Version Control System
 
 ### Tool used
 
-- React
-- React Router Dom 
-- React Context
-- Quill
-- Bootstrap
 - MongoDB
 - Mongoose 
 - Node
@@ -40,3 +35,5 @@ be given option to edit or delete the repository details versions will be made f
 ### How to Run
 - Install all the packages in package.json **npm install** for server an client 
 - Run the Server by either **npm start** or **node app.js**
+
+### End
